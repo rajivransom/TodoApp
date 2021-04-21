@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Myapp",
-    "slug": "Myapp",
+    "name": "ToDo App",
+    "slug": "todoapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first react native app! this will help lazy peoples to get their work done!"
   }
 }
